@@ -22,4 +22,9 @@ Este projeto implementa uma funcionalidade de pesquisa simples em uma página we
 
 
 ***Link do meu projeto no  site Vercel:***
-* [https://autores-one.vercel.app/]
+* https://autores-one.vercel.app/
+
+ **Professores da imersão:**
+ * Rafaella Ballerini
+ * Guilherme Lima
+ * Luciano Martins
