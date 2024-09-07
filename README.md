@@ -1,4 +1,4 @@
-## Projeto de Pesquisa de Escritores 🔍📚✍🏻
+## Projeto de Pesquisa de Escritores 🔍📚✍🏻 - Imersão Dev com Google Gemini 
 
 ### Descrição 🖥️
 Este projeto implementa uma funcionalidade de pesquisa simples em uma página web, permitindo que o usuário encontre informações sobre escritores a partir de um termo de pesquisa.
