@@ -18,7 +18,8 @@ Este projeto implementa uma funcionalidade de pesquisa simples em uma página we
    * **Seção:** Uma seção com o ID `resultados-pesquisa` para exibir os resultados.
 2. **Chamada da função:**
    * Ao enviar o formulário ou ao clicar em um botão, chame a função `pesquisar()`.
+  
 
-### Código
-```javascript
-// Código da função pesquisar() (colocar aqui o código completo)
+
+***Link do meu projeto no  site Vercel:***
+* [https://autores-one.vercel.app/]
